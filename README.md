@@ -14,11 +14,12 @@ Halaman awal menampilkan form login sederhana untuk memasukkan username. Setelah
 
 **Question: Why was a dependency update needed?**
 
-Dependency bawaan tutorial masih memakai versi lama `wasm-bindgen` dan webpack. Pada toolchain sekarang, versi tersebut tidak lagi bisa dibuild, sehingga saya memperbarui dependency minimum yang diperlukan tanpa mengubah alur utama kode original.
+Dependency bawaan tutorial masih memakai versi lama `wasm-bindgen` dan webpack. Pada toolchain sekarang, versi tersebut tidak lagi bisa dibuild, sehingga saya memperbarui dependency minimum yang diperlukan tanpa mengubah alur utama kode.
 
 ## 3.2 Add some creativities to the webclient
 
 ![Experiment 3.2 creative webclient](screenshots/experiment-3-2-creative.png)
+![Experiment 3.2 creative chat webclient](screenshots/experiment-3-2-creative_chat.png)
 
 **Question: What creative changes did you add to the web client?**
 
@@ -30,7 +31,7 @@ Artikel World Economic Forum menekankan bahwa kreativitas tetap penting ketika p
 
 **Question: What did you learn from this experiment?**
 
-Saya belajar bahwa kreativitas frontend tidak harus selalu berupa fitur besar. Perubahan pada token warna, spacing, bentuk komponen, dan struktur layout bisa mengubah rasa aplikasi secara signifikan tanpa membuat UI menjadi ramai.
+Saya belajar bahwa kreativitas frontend tidak selalu berupa perubahan besar. Perubahan pada warna, spacing, bentuk komponen, dan struktur layout bisa mengubah rasa aplikasi secara signifikan tanpa membuat UI menjadi ramai.
 
 **Question: How do you run the project?**
 
